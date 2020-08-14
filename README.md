@@ -3,7 +3,6 @@
 # Diego Fernandes 
 https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/
 [![Linkedin Badge](https://icons8.com/icon/44914/linkedin?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/)](https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
 
