@@ -1,11 +1,6 @@
 ### What's up👋
 
-# Diego Fernandes 
+# Vitor Rocha
 https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/
 [![Linkedin Badge](https://icons8.com/icon/44914/linkedin?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/)](https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/) 
 
-Enthusiast of the best web & mobile development technologies.
-
-Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
-
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
