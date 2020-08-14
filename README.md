@@ -7,7 +7,7 @@
 
 ---
   
-" I'm still waiting for the day my parents will say, It's all fake, we are millionaires, this just to teach you to be humble " 
+" I'm still waiting for the day my parents will say, It's all fake, we are millionaires, this was just to teach you to be humble " 
  -My dreams
 
 ---
