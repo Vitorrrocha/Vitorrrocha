@@ -1,7 +1,7 @@
 
 # Vitor Rocha
 
-## Software developer or anything cool like that.
+## Software Engineer or anything cool like that.
 
 ![](https://github.com/Vitorrrocha/Vitorrrocha/blob/master/ezgif.com-video-to-gif.gif.gif?raw=true)
 
