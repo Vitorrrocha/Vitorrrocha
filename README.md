@@ -2,8 +2,7 @@
 
 ### Software Engineer or anything cool like that.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=buefy)](https://github.com/vitorrrocha/netflix-clone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=calculadoraJS&theme=buefy)](https://github.com/vitorrrocha/calculadoraJS)
+https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=buefy&title_color=C96AE7&icon_color=758AF5&text_color=BEBEBE&bg_color=2C2B2B[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=calculadoraJS&theme=buefy)](https://github.com/vitorrrocha/calculadoraJS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ComparingRnaSequences&theme=buefy)](https://github.com/vitorrrocha/ComparingRnaSequences)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ecoleta&theme=buefy)](https://github.com/vitorrrocha/ecoleta)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=youtube-clone&theme=buefy)](https://github.com/vitorrrocha/youtube-clone)
@@ -20,3 +19,9 @@
 <code>Empathy</code>
 
 ![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=radical)
+buefyDark: {
+    title_color: "#B900F5",
+    icon_color: "#CF38FF",
+    text_color: "BEBEBE",
+    bg_color: "2C2B2B",
+  },
