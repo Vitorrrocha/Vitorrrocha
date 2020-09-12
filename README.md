@@ -3,9 +3,9 @@
 ## Software Engineer or anything cool like that.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=buefy)](https://github.com/vitorrrocha/netflix-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=calculadoraJS&theme=buefy)](https://github.com/vitorrrocha/calculadoraJS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ComparingRnaSequences&theme=buefy)](https://github.com/vitorrrocha/ComparingRnaSequences)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ecoleta&theme=buefy)](https://github.com/vitorrrocha/ecoleta)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=calculadoraJS&theme=buefy)](https://github.com/vitorrrocha/calculadoraJS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=youtube-clone&theme=buefy)](https://github.com/vitorrrocha/youtube-clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=cronometroApp&theme=buefy)](https://github.com/vitorrrocha/cronometroApp)
 
