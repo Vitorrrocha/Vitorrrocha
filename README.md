@@ -21,4 +21,4 @@
 <code>Lógic</code>
 <code>Empathy</code>
 
-![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&hide_border=true)
+![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=radical)
