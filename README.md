@@ -2,7 +2,8 @@
 
 ### Software Engineer or anything cool like that.
 
-https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=buefy&title_color=C96AE7&icon_color=758AF5&text_color=BEBEBE&bg_color=2C2B2B
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=buefy&title_color=C96AE7&icon_color=758AF5&text_color=BEBEBE&bg_color=2C2B2B
+)](https://github.com/vitorrrocha/calculadoraJS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=calculadoraJS&theme=buefy)](https://github.com/vitorrrocha/calculadoraJS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ComparingRnaSequences&theme=buefy)](https://github.com/vitorrrocha/ComparingRnaSequences)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ecoleta&theme=buefy)](https://github.com/vitorrrocha/ecoleta)
