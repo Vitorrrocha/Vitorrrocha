@@ -20,9 +20,3 @@
 <code>Empathy</code>
 
 ![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=radical)
-buefyDark: {
-    title_color: "#B900F5",
-    icon_color: "#CF38FF",
-    text_color: "BEBEBE",
-    bg_color: "2C2B2B",
-  },
