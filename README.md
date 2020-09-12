@@ -2,7 +2,8 @@
 
 ## Software Engineer or anything cool like that.
 
-![](https://github.com/Vitorrrocha/Vitorrrocha/blob/master/ezgif.com-video-to-gif.gif.gif?raw=true)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=dark)](https://github.com/vitorrrocha/netflix-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ecoleta&theme=dark)](https://github.com/vitorrrocha/ecoleta)
 
 ---
   
