@@ -25,5 +25,6 @@
 </p>
 
 <p align="center">
+  
   ![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=radical)
 </p>
