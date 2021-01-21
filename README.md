@@ -20,8 +20,6 @@
   <code>Teamwork</code>
   <code>Lógic</code>
   <code>Empathy</code>
-  
   ![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=radical)
-
 </p>
 
