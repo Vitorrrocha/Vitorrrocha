@@ -2,12 +2,12 @@
 
 ### Software Engineer or anything cool like that.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=radical)](https://github.com/vitorrrocha/netflix-clone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=calculatorJS&theme=radical)](https://github.com/vitorrrocha/calculadoraJS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ComparingRnaSequences&theme=radical)](https://github.com/vitorrrocha/ComparingRnaSequences)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ecoleta&theme=radical)](https://github.com/vitorrrocha/ecoleta)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=youtube-clone&theme=radical)](https://github.com/vitorrrocha/youtube-clone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=cronometroApp&theme=radical)](https://github.com/vitorrrocha/cronometroApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=buefy)](https://github.com/vitorrrocha/netflix-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=calculatorJS&theme=buefy)](https://github.com/vitorrrocha/calculadoraJS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ComparingRnaSequences&theme=buefy)](https://github.com/vitorrrocha/ComparingRnaSequences)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=ecoleta&theme=buefy)](https://github.com/vitorrrocha/ecoleta)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=youtube-clone&theme=buefy)](https://github.com/vitorrrocha/youtube-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=cronometroApp&theme=buefy)](https://github.com/vitorrrocha/cronometroApp)
 
 ### :rocket: Technologies and Skills
 
@@ -20,4 +20,4 @@
   <code>Lógic</code>
   <code>Empathy</code>
 
-![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=radical)
+![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=buefy)
