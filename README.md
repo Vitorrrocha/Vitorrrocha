@@ -19,5 +19,6 @@
   <code>Teamwork</code>
   <code>Lógic</code>
   <code>Empathy</code>
-
-![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=buefy&cache_seconds=86400)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrrocha&langs_count=8)](https://github.com/vitorrrocha/github-readme-stats)
+![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=buefy)
