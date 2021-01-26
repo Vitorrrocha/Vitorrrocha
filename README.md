@@ -20,4 +20,4 @@
   <code>Lógic</code>
   <code>Empathy</code>
 
-![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=buefy&cache_seconds=5400)
+![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=buefy&cache_seconds=86400)
