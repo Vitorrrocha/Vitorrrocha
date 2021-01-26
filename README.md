@@ -20,5 +20,4 @@
   <code>Lógic</code>
   <code>Empathy</code>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrrocha&langs_count=8)](https://github.com/vitorrrocha/github-readme-stats)
 ![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=buefy)
