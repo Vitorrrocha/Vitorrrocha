@@ -1,3 +1,12 @@
+<p>
+   <img src="githubAssets/thumb.png" alt="Vitor Rocha Thumb" border="0" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/">Linkedin</a> •
+</p>
+
+
 ## Hi there, I'm [Vitor Rocha!](https://vitorrrocha.github.io) 🤘
 
 ### Software Engineer or anything cool like that.
