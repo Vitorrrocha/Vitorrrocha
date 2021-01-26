@@ -1,5 +1,5 @@
 <p>
-   <img src="thumb.png" alt="Vitor Rocha Thumb" border="0" width="100%">
+   <img src="thumb1.png" alt="Vitor Rocha Thumb" width="100%" >
 </p>
 
 <p align="center">
