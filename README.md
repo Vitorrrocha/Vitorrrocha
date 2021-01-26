@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/">Linkedin</a> •
 </p>
 
+---
 
 ## Hi there, I'm [Vitor Rocha!](https://vitorrrocha.github.io) 🤘
 
