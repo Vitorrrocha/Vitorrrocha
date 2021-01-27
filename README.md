@@ -3,14 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/">Linkedin</a> •
+ • <a href="https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/">Linkedin</a> •
 </p>
 
 ---
 
-## Hi there, I'm [Vitor Rocha!](https://vitorrrocha.github.io) 🤘
+# What's up?
+## [Click here to know more about me](https://vitorrrocha.github.io)
 
-### Software Engineer or anything cool like that.
+### :octocat: Repo: 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=netflix-clone&theme=buefy)](https://github.com/vitorrrocha/netflix-clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorrrocha&repo=calculatorJS&theme=buefy)](https://github.com/vitorrrocha/calculadoraJS)
