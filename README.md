@@ -1,9 +1,5 @@
 <p>
-   <img src="thumb1.png" alt="Vitor Rocha Thumb" width="100%" >
-</p>
-
-<p align="center">
- • <a href="https://www.linkedin.com/in/vitor-augusto-batista-rocha-b87b68134/">Linkedin</a> •
+   <img src="Cover for GitHub2.png" alt="Vitor Rocha Thumb" width="100%" >
 </p>
 
 ---
@@ -32,3 +28,4 @@
   <code>Empathy</code>
   
 ![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=buefy)
+<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrrocha&theme=buefyk&hide_border=true" title="Github Contributions">
