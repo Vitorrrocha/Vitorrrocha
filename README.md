@@ -28,4 +28,7 @@
   <code>Empathy</code>
   
 ![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&show_icons=true&theme=buefy)
-<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrrocha&theme=buefyk&hide_border=true" title="Github Contributions">
+
+<p align="left">
+   <img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrrocha&theme=buefyk&hide_border=true" title="Github Contributions" />
+</p>
