@@ -5,7 +5,7 @@
 ---
 
 # What's up?
-## [Click here to know more about me](https://vitorrrocha.github.io)
+## [Click here to know more about me ;)](https://vitorrrocha.github.io)
 
 ### :octocat: Repo: 
 
