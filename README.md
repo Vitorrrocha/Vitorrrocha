@@ -1,5 +1,5 @@
 <p>
-   <img src="Cover for GitHub2.png" alt="Vitor Rocha Thumb" width="100%" >
+   <img src="bg.png" alt="Vitor Rocha Thumb" width="100%" >
 </p>
 
 ---
