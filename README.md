@@ -17,8 +17,6 @@
   <code>Teamwork</code>
   <code>Empathy</code>
   
-![Vitor github stats](https://github-readme-stats.vercel.app/api?username=vitorrrocha&include_all_commits=true&count_private=true&show_icons=true&theme=buefy)
-
 <p align="left">
    <img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrrocha&theme=buefyk&hide_border=true" title="Github Contributions" />
 </p>
